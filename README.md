@@ -22,7 +22,7 @@
 ### *Запустить проект:*
 * Клонировать репозиторий
 ``` bash
-git clone https://github.com:nicothin/web-design.git          
+git clone https://github.com/DmitriyTerementsev/SPA-full-api-mesto.git          
 ```
 
 ## *front*
