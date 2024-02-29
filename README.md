@@ -25,14 +25,14 @@
 git clone https://github.com:nicothin/web-design.git          
 ```
 
-# *front*
+## *front*
 ``` bash
 cd frontend
 npm i
 npm run dev
 ``` 
 
-#### *back*
+## *back*
 ``` bash
 cd backend
 npm i
