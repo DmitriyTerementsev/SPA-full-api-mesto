@@ -1,0 +1,5 @@
+.header__links {
+  display: flex;
+  align-self: center;
+  justify-self: center;
+}

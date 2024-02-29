@@ -1,0 +1,9 @@
+.input-text__error_active {
+  color: #ff0000;
+  width: 84%;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  margin: 0px auto;
+  padding: 0px;
+}

@@ -1,0 +1,16 @@
+.element__like-btn_active {
+  background-image: url(../../../../images/like_active.svg);
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  width: 22px;
+  height: 19px;
+  margin: auto 5px auto 0;
+}
+
+.element__like-btn_active:hover {
+  cursor: pointer;
+  transition: 0.5s;
+}

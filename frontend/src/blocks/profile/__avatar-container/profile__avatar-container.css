@@ -1,0 +1,9 @@
+.profile__avatar-container {
+  position: relative;
+}
+
+@media screen and (max-width: 1023px) {
+  .profile__avatar-container {
+    margin: auto;
+  }
+}

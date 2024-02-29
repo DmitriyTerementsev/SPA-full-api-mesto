@@ -1,0 +1,13 @@
+.popup__close_form {
+  transition: 0.5s;
+  position: fixed;
+  left: calc(50vw + 210px);
+  top: 155px;
+}
+
+@media screen and (max-width: 767px)   {
+  .popup__close_form {
+    top: 160px;
+    left: 88vw;
+  }
+}

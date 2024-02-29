@@ -1,0 +1,20 @@
+.profile__avatar {
+  position: relative;
+  margin: 4px 30px 4px 0;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+
+.profile__avatar-container:hover .profile__avatar {
+  opacity: 0.2;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+@media screen and (max-width: 1023px) {
+  .profile__avatar {
+    margin: auto;
+  }
+}

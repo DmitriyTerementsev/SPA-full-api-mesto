@@ -1,0 +1,32 @@
+.input-text {
+  margin: 0 auto 0 auto;
+  width: 84%;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  padding: 0 0 8px 0;
+  box-sizing: border-box;
+  border: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.input-text:focus {
+  outline: 0;
+  box-shadow: 0 0 10px 5px #1E90FF;
+}
+
+.input-text:first-of-type {
+  margin: 50px auto 0 auto;
+}
+
+@media screen and (max-width: 767px) {
+  .input-text {
+    margin: 14px auto 0 auto;
+  }
+
+  .input-text:first-of-type {
+    margin: 65px auto 0 auto;
+  }
+}
+
+

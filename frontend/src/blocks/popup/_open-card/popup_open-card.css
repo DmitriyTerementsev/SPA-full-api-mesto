@@ -1,0 +1,16 @@
+.popup_open-card {
+  padding: 90px 0;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+@media screen and (max-width: 1024px)   {
+  .popup_open-card {
+    padding: 85px 0;
+  }
+}
+
+@media screen and (max-width: 767px)   {
+  .popup_open-card {
+    padding: 136px 0;
+  }
+}

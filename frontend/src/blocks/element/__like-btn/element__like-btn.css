@@ -1,0 +1,18 @@
+.element__like-btn {
+  background-image: url(../../../images/Group.svg);
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  width: 22px;
+  height: 19px;
+  margin: auto 5px auto 0;
+  transition: 0.5s;
+}
+
+.element__like-btn:hover {
+  cursor: pointer;
+  opacity: 0.5;
+  transition: 0.5s;
+}

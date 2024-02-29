@@ -1,0 +1,14 @@
+.header__link {
+  text-decoration: none;
+  color: #ffffff;
+  align-self: center;
+  justify-self: center;
+  color: #A9A9A9;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: right;
+  margin: 0 0 0 24px;
+  padding: 0;
+}

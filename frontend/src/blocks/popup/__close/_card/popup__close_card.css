@@ -1,0 +1,14 @@
+.popup__close_card {
+  position: absolute;
+  align-self: flex-end;
+  top: -40px;
+  right: -40px;
+  transition: 0.5s;
+}
+
+@media screen and (max-width: 767px)   {
+  .popup__close_card {
+    top: -30px;
+    right: 0;
+  }
+}
